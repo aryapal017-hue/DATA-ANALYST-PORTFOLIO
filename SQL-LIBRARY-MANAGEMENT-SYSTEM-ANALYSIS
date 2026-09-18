@@ -1,0 +1,15 @@
+# Library Management System
+
+A medium-level SQL project built using MySQL.
+
+## Features
+- Member management
+- Book, author, and category management
+- Book issue and return tracking
+- Fine tracking
+- Overdue-book report
+- Low-stock report
+- Most-issued-book report
+
+## Database
+MySQL
